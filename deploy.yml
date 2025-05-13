@@ -16,7 +16,7 @@ spec:
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: wil-playground-depl
+  name: wil-playground
   labels:
     name: wil-playground
 spec:
