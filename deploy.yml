@@ -23,7 +23,7 @@ metadata:
 spec:
   ports:
     - port: 8888
-  protocol: TCP
+      protocol: TCP
   selector:
     app: wil-playground
 
